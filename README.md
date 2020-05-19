@@ -189,7 +189,7 @@ Para que esse teste passe, a aplicação deve permitir que seja importado um arq
 
 ## 📌 Importante
 
-Configurar a porta do banco de dados dentro do arquivo "ormconfig.json".
+<p>Configurar a porta do banco de dados dentro do arquivo "ormconfig.json".<p>
 ---
 
 <i>Desenvolvido por RodrigoDS</i> 🤓
