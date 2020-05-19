@@ -134,7 +134,7 @@ A rota deve permitir a importação de um arquivo com formato .csv contendo as m
 
 ## 📝 Testes de Validação
 
-<img src="public/testReadme.JPG" width="280">
+<img src="public/testReadme.JPG" width="400">
 
 Para que o desafio seja válido, a aplicação teve que passar por sete testes, que foram:
 
